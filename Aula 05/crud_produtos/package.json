@@ -1,0 +1,20 @@
+{
+  "name": "crud_produtos",
+  "version": "1.0.0",
+  "description": "Realiza o CRUD de produtos",
+  "main": "main.js",
+  "scripts": {
+    "print": "echo \"Hello World\" && exit",
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "CRUD",
+    "Produtos"
+  ],
+  "author": "Paola Fantinel dos Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
