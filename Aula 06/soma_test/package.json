@@ -1,0 +1,17 @@
+{
+  "name": "soma_teste",
+  "version": "1.0.0",
+  "description": "Teste Unitário com Soma",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest",
+    "test-cobertura": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Paola Fantinel dos Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
