@@ -1,0 +1,17 @@
+{
+  "name": "atividade03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest",
+    "test-cobertura": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Paola Fantinel dos Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
