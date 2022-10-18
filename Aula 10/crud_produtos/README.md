@@ -13,5 +13,5 @@
   - comando SQL ("INSERT", "DELETE", "SELECT", "UPDATE", etc)
   - Prepared Statement (preparar comando comando, passando variáveis como dados;
   - Callback - err, res -> err: erro ; res: resultado / Dica: utilize res.rows para pegar os dados. Pode utilizar Promises ou Async/Await.
-  - 
+ 
 3 - Finaliza a conexão (end)
