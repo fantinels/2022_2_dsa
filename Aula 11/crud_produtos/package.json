@@ -1,0 +1,16 @@
+{
+  "name": "crud_produtos",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.8.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
